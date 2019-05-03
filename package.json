@@ -1,0 +1,22 @@
+{
+  "name": "mongo-pr",
+  "version": "1.0.0",
+  "description": "pracice mongo",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tameem6/mongo-pr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tameem6/mongo-pr/issues"
+  },
+  "homepage": "https://github.com/tameem6/mongo-pr#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
